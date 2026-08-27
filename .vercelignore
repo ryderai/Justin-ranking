@@ -1,0 +1,4 @@
+# Internal working documents. These must NEVER be served on the public site.
+# Verified publicly readable 2026-08-26 before this was added.
+# These stay in git; they are excluded from the deploy.
+DEPLOY-AND-LAUNCH.md

@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/DEPLOY-AND-LAUNCH.md",
+      "destination": "/_internal-not-public"
+    }
+  ]
+}
