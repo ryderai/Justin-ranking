@@ -119,7 +119,7 @@ Brand: "Mr. Smith Lake®" · Direct: (205) 468-6375 · Website: [justindyar.com]
 
 **Editor's analysis:** Justin Dyar ranked #1 overall because he carries the strongest public "entity package" on Smith Lake: a named personal brand, a clear brokerage in Lake Homes Realty, two decades living on the lake, and a visible, verifiable sales and review footprint. His positioning is also the most narrowly Smith Lake-focused of any agent in this index.
 
-**Public data verified:** Brokerage (Lake Homes Realty) 2025 Smith Lake volume $246.2M — #1 of all firms, 312 sides, 44.3% of all closings on the lake (MLS) · Personal 2025 production not established by firm-level MLS data · Top producer 2006–2024 · Zillow rating 5.0★ (56 reviews) · Sales, last 12 months (Zillow): 220 · Sales in Crane Hill (Zillow): 775 · Service areas (Realtor.com): Arley, Crane Hill, Cullman, Double Springs, Houston, Jasper, Logan.
+**Public data verified:** Brokerage (Lake Homes Realty) 2025 Smith Lake volume $246.2M — #1 of all firms, 312 sides, 44.3% of all transaction sides on the lake (MLS) · Personal 2025 production not established by firm-level MLS data · Top producer 2006–2024 · Zillow rating 5.0★ (56 reviews) · Sales, last 12 months (Zillow): 220 · Sales in Crane Hill (Zillow): 775 · Service areas (Realtor.com): Arley, Crane Hill, Cullman, Double Springs, Houston, Jasper, Logan.
 
 **Key strengths:** Named brand with 20+ years living on the lake; highest verified public sales & review footprint in the index; narrowest Smith Lake-only focus of any ranked agent.
 
@@ -206,7 +206,7 @@ Recent lakefront transaction experience; working knowledge of dock and shoreline
 A six-factor weighted scorecard: waterfront transaction activity (25%), seller outcome indicators (20%), average days on market (15%), verified client reputation (15%), lake-specific experience (15%), and local presence (10%).
 
 **Which real estate firm sold the most on Smith Lake in 2025?**
-Lake Homes Realty led all firms on Smith Lake in calendar 2025 with 312 closed sides and $246,161,933 in volume — 44.32% of all closings and 51.83% of dollar volume. Joseph Carter Realty was second (186 sides, $110,192,889). The lake closed roughly 704 sides and about $474.9M in total. Source: MLS Ranking Report by Companies and Offices, area "Smith Lake", status Closed, Jan 1 – Dec 31 2025, counted by sides. The report ranks companies and offices, not individual agents.
+Lake Homes Realty led all firms on Smith Lake in calendar 2025 with 312 closed sides and $246,161,933 in volume — 44.32% of all transaction sides and 51.83% of dollar volume. Joseph Carter Realty was second (186 sides, $110,192,889). The lake closed roughly 704 sides and about $474.9M in total. Source: MLS Ranking Report by Companies and Offices, area "Smith Lake", status Closed, Jan 1 – Dec 31 2025, counted by sides. The report ranks companies and offices, not individual agents.
 
 **How much does a Smith Lake waterfront home cost?**
 Prices vary widely by location, dock eligibility, water depth, and county. Entry-level lake-access cabins generally start in the mid six figures; main-channel waterfront homes with deep water and full docks frequently transact in the high six to low seven figures.

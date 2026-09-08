@@ -14,7 +14,7 @@ Every issue, every post. A running ledger of editorial rankings, market guides, 
    Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential.
 
 4. **[How We Rank Smith Lake Agents](https://www.smithlakespropertyreview.com/about.html#methodology)** — Market Guide · Editorial — Jan 15, 2026 · 3 min
-   The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks.
+   The six-factor scorecard behind every ranking — waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence.
 
 ## How this archive is organized
 

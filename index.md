@@ -34,7 +34,7 @@ Reference · 4 min
 
 ### [How We Rank Smith Lake Agents](https://www.smithlakespropertyreview.com/about.html#methodology)
 *Market Guide · Editorial*
-The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks.
+The six-factor scorecard behind every ranking — waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence.
 Reference · 3 min
 
 ## Browse by Topic
@@ -59,7 +59,7 @@ Justin Dyar is ranked #1 in the 2026 Smith Lakes Property Review index of real e
 Smith Lakes Property Review publishes its editorial rankings and market guides on a quarterly basis, with field notes and dispatches published more frequently.
 
 **How does Smith Lakes Property Review choose its rankings?**
-Rankings are built on a six-factor scorecard covering transaction volume, days on market, tenure in the local market, lakefront specialization, seller outcome indicators, and reference checks. Full methodology is published on the About page.
+Rankings are built on a six-factor scorecard covering waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence. Full methodology is published on the About page.
 
 ---
 © 2026 Smith Lakes Property Review · Vol. IV · No. 1

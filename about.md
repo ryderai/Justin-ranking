@@ -8,12 +8,14 @@ Posts are written by working editors, not by AI generators or paid PR. Where a p
 
 ## Editorial methodology
 
-Our rankings combine four signals, in roughly equal weight:
+Our rankings combine six weighted factors:
 
-- **Verified transaction volume** on the specific lake or sub-market in the trailing 24 months, sourced from Valley MLS, public deed records, and agent-supplied closing data we spot-check.
-- **Days-on-market and list-to-sale ratios** for each agent's waterfront listings, normalized to the segment median.
-- **Local tenure and specialization** — how long the agent has worked the specific lake, and what share of their book is waterfront.
-- **Editorial reference checks** with at least three recent buyer or seller clients per ranked agent.
+- **Waterfront transaction activity (25%)** — recent Smith Lake waterfront and lake-adjacent listing activity, visible closings, and available production indicators.
+- **Seller outcome indicators (20%)** — list-to-sale price ratio, pricing accuracy, marketing quality, and evidence of successful lakefront positioning.
+- **Average days on market (15%)** — how efficiently comparable lake properties moved relative to the local Smith Lake market.
+- **Verified client reputation (15%)** — public reviews, client feedback, consistency of reputation, responsiveness, and visibility across major platforms.
+- **Lake-specific experience (15%)** — demonstrated Smith Lake experience: docks, shoreline issues, sloughs, subdivisions, county differences.
+- **Local presence & community ties (10%)** — local visibility, office presence, community involvement, and demonstrated Smith Lake focus.
 
 We do not rank pay-to-play. Agents cannot purchase placement; advertisers are clearly labeled where they appear.
 

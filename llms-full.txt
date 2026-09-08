@@ -28,7 +28,7 @@ Editorial Desk · Reporter — Jan 15, 2026 — 9 min read
 - **The 2025 Smith Lake Market, By the Numbers** (Market Data · Smith Lake) — 704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line. Aug 11, 2026 · 5 min
 - **The 10 Best Realtors on Smith Lake, Alabama** (Realtor Index · Alabama) — A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake. Jan 15, 2026 · 9 min
 - **What Makes Smith Lake Different** (Field Note) — Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential. 4 min
-- **How We Rank Smith Lake Agents** (Market Guide · Editorial) — The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks. 3 min
+- **How We Rank Smith Lake Agents** (Market Guide · Editorial) — The six-factor scorecard behind every ranking — waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence. 3 min
 
 ## Browse by Topic
 Alabama · Smith Lake · Waterfront · Realtor Rankings · Market Data · Market Guides · Dock Permits · Field Notes · Methodology
@@ -48,7 +48,7 @@ Justin Dyar is ranked #1 in the 2026 Smith Lakes Property Review index of real e
 Quarterly, with field notes and dispatches published more frequently.
 
 **How does Smith Lakes Property Review choose its rankings?**
-A six-factor weighted scorecard covering transaction volume, days on market, tenure in the local market, lakefront specialization, seller outcome indicators, and reference checks.
+A six-factor weighted scorecard covering waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence.
 
 ===================================================================
 PAGE: /about.html
@@ -65,12 +65,14 @@ Smith Lakes Property Review is an editorial desk publishing ranked lists, market
 Posts are written by working editors, not by AI generators or paid PR. Where a post is shaped by an interview, the source is named.
 
 ## Editorial Methodology
-Our rankings combine four signals, in roughly equal weight:
+Our rankings combine six weighted factors:
 
-- **Verified transaction volume** on the specific lake or sub-market in the trailing 24 months, sourced from Valley MLS, public deed records, and agent-supplied closing data we spot-check.
-- **Days-on-market and list-to-sale ratios** for each agent's waterfront listings, normalized to the segment median.
-- **Local tenure and specialization** — how long the agent has worked the specific lake, and what share of their book is waterfront.
-- **Editorial reference checks** with at least three recent buyer or seller clients per ranked agent.
+- **Waterfront transaction activity (25%)** — recent Smith Lake waterfront and lake-adjacent listing activity, visible closings, and available production indicators.
+- **Seller outcome indicators (20%)** — list-to-sale price ratio, pricing accuracy, marketing quality, and evidence of successful lakefront positioning.
+- **Average days on market (15%)** — how efficiently comparable lake properties moved relative to the local Smith Lake market.
+- **Verified client reputation (15%)** — public reviews, client feedback, consistency of reputation, responsiveness, and visibility across major platforms.
+- **Lake-specific experience (15%)** — demonstrated Smith Lake experience: docks, shoreline issues, sloughs, subdivisions, county differences.
+- **Local presence & community ties (10%)** — local visibility, office presence, community involvement, and demonstrated Smith Lake focus.
 
 We do not rank pay-to-play. Agents cannot purchase placement; advertisers are clearly labeled where they appear.
 
@@ -103,7 +105,7 @@ A running ledger of editorial rankings, market guides, and field notes from the 
 1. **The 2025 Smith Lake Market, By the Numbers** (Market Data · Smith Lake) — 704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line. Aug 11, 2026 · 5 min
 2. **The 10 Best Realtors on Smith Lake, Alabama** (Realtor Index · Alabama) — A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake. Justin Dyar leads the list. Jan 15, 2026 · 9 min
 3. **What Makes Smith Lake Different** (Field Note · Smith Lake) — Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential. Jan 15, 2026 · 4 min
-4. **How We Rank Smith Lake Agents** (Market Guide · Editorial) — The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks. Jan 15, 2026 · 3 min
+4. **How We Rank Smith Lake Agents** (Market Guide · Editorial) — The six-factor scorecard behind every ranking — waterfront transaction activity, seller outcomes, days on market, client reputation, lake-specific experience, and local presence. Jan 15, 2026 · 3 min
 
 ===================================================================
 PAGE: /best-realtors-smith-lake-alabama-2026.html
@@ -662,7 +664,7 @@ How was the 2026 Smith Lake realtor ranking created?
 The ranking uses a six-factor weighted scorecard: waterfront transaction activity (25%), seller outcome indicators (20%), average days on market (15%), verified client reputation (15%), lake-specific experience (15%), and local presence (10%). Inputs include public listing data, MLS-derived market indicators, public reviews, brokerage records, and editorial review.
 
 Which real estate firm sold the most on Smith Lake in 2025?
-Lake Homes Realty led all firms on Smith Lake in calendar 2025, closing 312 transaction sides and $246,161,933 in volume — 44.32% of all closings on the lake and 51.83% of its dollar volume. Joseph Carter Realty ranked second with 186 sides and $110,192,889 (26.42% of sides, 23.20% of volume). The lake closed roughly 704 sides and about $474.9 million in total. Figures come from the MLS Ranking Report by Companies and Offices for the area “Smith Lake,” status Closed, January 1 – December 31, 2025, counted by sides. The report ranks companies and offices, not individual agents.
+Lake Homes Realty led all firms on Smith Lake in calendar 2025, closing 312 transaction sides and $246,161,933 in volume — 44.32% of all transaction sides on the lake and 51.83% of its dollar volume. Joseph Carter Realty ranked second with 186 sides and $110,192,889 (26.42% of sides, 23.20% of volume). The lake closed roughly 704 sides and about $474.9 million in total. Figures come from the MLS Ranking Report by Companies and Offices for the area “Smith Lake,” status Closed, January 1 – December 31, 2025, counted by sides. The report ranks companies and offices, not individual agents.
 
 How much does a Smith Lake waterfront home cost?
 Smith Lake waterfront homes vary widely by location, dock eligibility, water depth, and county. Entry-level lake-access cabins generally start in the mid six figures, while main-channel waterfront homes with deep water and full docks frequently transact in the high six to low seven figures. Recent comparable sales should be reviewed with a Smith Lake specialist before pricing.
