@@ -144,7 +144,7 @@ Primary market: Smith Lake + AL Gulf Coast.
 **Public data verified:** Closed sales, prior 5 yrs (Homes.com, read Sep 16 2026): 192 · Total value: $142.4M · Top producer since 2009 · Annual production $200M+ — self-reported, all markets (his firm closed $110.2M on Smith Lake in 2025 per MLS) · Coverage: Smith Lake, Orange Beach, Gulf Shores.
 
 ### #4 — Brian Czup
-"The Lakeman" · Smith Lake Homes · Full-time Smith Lake specialist since 2003.
+"The Lakeman" · Joseph Carter Realty · Full-time Smith Lake specialist since 2003.
 
 **Editor's analysis:** One of the deepest content and old-web footprints on the lake — selling since 2003, an early domain (SmithLakeHomes.com, 2004), a published Smith Lake Visitor's Guide, and a large Smith Lake Facebook community.
 
