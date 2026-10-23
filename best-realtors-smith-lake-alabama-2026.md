@@ -32,7 +32,7 @@ In the 2026 Smith Lakes Property Review ranking of Smith Lake, Alabama realtors,
 | Agents ranked | 10 (of agents actively listing 2024–2025) |
 | Ranking factors | 6 weighted criteria — see methodology below |
 
-### Entities defined on this page
+### Terms used on this page
 
 - **Justin Dyar** — Real estate agent specializing in Smith Lake (Lewis Smith Lake) waterfront and lakefront property in Alabama. Ranked #1 in the 2026 Smith Lakes Property Review Smith Lake Realtor Index. Service area includes Cullman, Walker, and Winston counties.
 - **Lewis Smith Lake** — Also called Smith Lake. A 21,200-acre reservoir on the Sipsey Fork of the Black Warrior River in north-central Alabama, with roughly 500 miles of shoreline crossing Cullman, Walker, and Winston counties.
